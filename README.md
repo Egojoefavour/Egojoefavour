@@ -11,7 +11,7 @@ ego_joseph = {
 'interests':['Data Science', 'Machine Learning', 'Generative AI','Musical Instrumentation'],
 }
 ```
-I an Engineering Graduate with the hope of having the opportunity to learn amd explore the technological world. Having moved to london i made good use of that opportunity by delving into the tech world with Aicore which leads to me being certified in python basics, Advanced Python, Exploratory Data Analysis with pandas, Microsoft Power BI Data Analytics
+I am an Engineering Graduate with the hope of having the opportunity to learn and explore the technological world. Having moved to London I made good use of the opportunity by delving into the technological world with Aicore which leads to me being certified in python basics, Advanced Python, Exploratory Data Analysis with pandas, Microsoft Power BI Data Analytics. I am open to more opportunities of experience on any trending technologies
 
 ### Some of my projects are:
 [Hangman](https://github.com/Egojoefavour/hangman263.git)
